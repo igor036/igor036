@@ -6,10 +6,10 @@
 
 
 ### :man_student:  I'm brazilian :brazil: full stack developer graduated in computer science.
-### :guitar: In free time i play electric guitar.
+### :guitar: In my free time I play electric guitar.
 ### :nerd_face: I love learning new things.
-### :computer: I love so much coding and beer. :beers:
-### 🐧 My favorite Operational System is linux (Fedora).
+### :computer: I love coding and beer. :beers:
+### 🐧 My favorite Operational System is Linux (Fedora).
 <br/>
 
 
@@ -52,13 +52,13 @@
 
 My favorite programming language is <b>Java</b>, but I love other languages like <b>Golang</b>, <b>C#</b>,  <b>C</b>, <b>C++</b>, <b>JavaScript</b>, <b>python (machine learning only)</b>, <b>php</b> and more.
  
-Every time I try to make my code cleaner and more readable and i think that automated test are extremely important for make sure that the code have quality.
+Every time I try to make my code cleaner and more readable and I think that automated test are extremely important to make sure that the code have quality.
 
-I love so much working with distributed systems, microservices and image processing, actually i work with microservices and AWS cloud.
+I love so much working with distributed systems, microservices and image processing. I actually work with microservices and AWS cloud.
 
 I think it's extremely important to have hobbies and get away from work for a while, so I use my free time to study other things like music.
 
-This is me plaing eletric guitar (Disturbed - Remember)
+This is me playing eletric guitar (Disturbed - Remember)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7WuGnlTqtC4/0.jpg)](https://www.youtube.com/watch?v=7WuGnlTqtC4)
 0
